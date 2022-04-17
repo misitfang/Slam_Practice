@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtest.a  CMakeFiles/test.dir/src/GetPoints.cpp.o CMakeFiles/test.dir/src/reprojection_factor.cpp.o CMakeFiles/test.dir/src/utility.cpp.o CMakeFiles/test.dir/src/icp3d3d_factor.cpp.o
+/usr/bin/ranlib libtest.a
